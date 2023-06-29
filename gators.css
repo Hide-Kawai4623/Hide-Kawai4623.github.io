@@ -1,0 +1,18 @@
+#greenbox {
+    margin       : auto;
+    width        : 200px;
+    height       : 200px;
+    border       : 2px solid #000000;
+    /* display      : block; */
+    background-color: green;
+  } 
+   
+ #bluebox {
+    margin       : auto;
+    border       : 2px solid #000000;
+    width        : 300px;
+    display      : block;
+    /* height       : 200px; */
+    background-color: blue;
+    text-align: center;
+  }  
